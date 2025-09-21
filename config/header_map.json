@@ -1,0 +1,48 @@
+{
+  "Total Revenue": "Revenue",
+  "Revenue": "Revenue",
+  "Net Sales": "Revenue",
+  "Sales": "Revenue",
+
+  "Net Profit": "Net Income",
+  "Net Income": "Net Income",
+  "Profit After Tax": "Net Income",
+  "Earnings": "Net Income",
+
+  "Operating Income": "Operating Income",
+  "EBIT": "Operating Income",
+  "Operating Profit": "Operating Income",
+
+  "Gross Profit": "Gross Profit",
+  "COGS": "Cost of Goods Sold",
+  "Cost of Revenue": "Cost of Goods Sold",
+
+  "Total Assets": "Total Assets",
+  "Assets": "Total Assets",
+  "Current Assets": "Current Assets",
+
+  "Total Liabilities": "Total Liabilities",
+  "Liabilities": "Total Liabilities",
+  "Current Liabilities": "Current Liabilities",
+
+  "Shareholder Equity": "Equity",
+  "Equity": "Equity",
+  "Total Equity": "Equity",
+
+  "Cash Flow from Operations": "Operating Cash Flow",
+  "Operating Cash Flow": "Operating Cash Flow",
+  "Cash Flow from Investing": "Investing Cash Flow",
+  "Cash Flow from Financing": "Financing Cash Flow",
+
+  "Current Ratio": "Current Ratio",
+  "Liquidity Ratio": "Current Ratio",
+
+  "Debt to Equity": "Debt/Equity",
+  "Debt/Equity Ratio": "Debt/Equity",
+  "Leverage Ratio": "Debt/Equity",
+
+  "EPS": "Earnings Per Share",
+  "Earnings Per Share": "Earnings Per Share",
+  "Basic EPS": "Earnings Per Share",
+  "Diluted EPS": "Earnings Per Share"
+}

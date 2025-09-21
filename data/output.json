@@ -1,0 +1,35 @@
+[
+  {
+    "organization": "org_a",
+    "metrics": {
+      "Revenue": "__MISSING__",
+      "Net Income": "__MISSING__",
+      "Current Ratio": "__MISSING__",
+      "Debt/Equity": "__MISSING__",
+      "Cash Flow": "__MISSING__",
+      "UNMAPPED::Products": "__MISSING__",
+      "UNMAPPED::$ 66,613": 27423.0,
+      "UNMAPPED::$ 61,564": 24213.0,
+      "UNMAPPED::$ 233,287": 80408.0,
+      "UNMAPPED::$ 224,908": 71197.0,
+      "UNMAPPED::0": "__MISSING__",
+      "UNMAPPED::1": 36269.0,
+      "UNMAPPED::3": 29943.0
+    }
+  },
+  {
+    "organization": "org_b",
+    "metrics": {
+      "Revenue": "__MISSING__",
+      "Net Income": "__MISSING__",
+      "Current Ratio": "__MISSING__",
+      "Debt/Equity": "__MISSING__",
+      "Cash Flow": "__MISSING__",
+      "UNMAPPED::0": "__MISSING__",
+      "UNMAPPED::1": 65097.0,
+      "UNMAPPED::2": 65507.0,
+      "UNMAPPED::3": 62613962.0,
+      "UNMAPPED::4": 259286.0
+    }
+  }
+]
