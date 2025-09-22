@@ -24,6 +24,7 @@ def run_comparison_pipeline(pdf_paths, output_json, export_html=False):
             # Step 1: Try Camelot extraction
             try:
                 tables = extract_tables_camelot(pdf_path)
+                print("camlot extracting tables")
             except Exception as e:
                 print(f"❌ Camelot extraction failed for {pdf_path}: {e}")
                 log_extraction_failure(pdf_path, "Camelot", str(e))
